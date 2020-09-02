@@ -6,31 +6,31 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 
 
 ## Listado de objetivos
-Elige preferiblemente objetivos de aprendizaje que consideres esenciales o bloqueantes, trata de no elegir demasiados para poder planear y dedicarle el tiempo necesario a cada uno.
 
-----
+1 quiero profundizar mas en promesas.
+2 quiero trabajar Organización en Github (projects | issues | labels | milestones).
+3 Verbos HTTP (http.get).
+4 fundamentos de javascript (coercion explicita, implicita).
 
-> *Ejemplo de la estructura del listado de objetivos:*
-
+ 
 
 #### Temática
     
 - [ ] Objetivo de aprendizaje:
-    1. Describe las actividades que desarrollarás por cada objetivo
-    2. Define una actividad final en la que puedas compartir tu conocimiento, puede ser la creación de un ejercicio para incluir en [el repositorio de entrenamiento](https://github.com/dapino/daily-js) o un *Lightning Talk* (5-10 minutos) para compartir el aprendizaje y/o ejercicios para practicar con tus compañeras.
+     
+    1. todo lo que aprenda quiero compartirlo con mis compañeras en una charla
 
 
 ----
 
 
 ## Actividades
-Durante la revisión de tu aprendizaje es importante que consolides ese conocimiento en algún lugar y en lo posible compartas el conocimiento que has adquirido, es importante que organices y hagas seguimiento de tus tareas, por esta razón te sugerimos organices las actividades, puede ser en una tabla como esta:
-
-| Día 1 | Día 2 | Día 3 |  Día 4 |  Día 5 | 
-| - | - | - | - | - | 
-| Actividad | Actividad | Actividad | Actividad | Actividad | 
-| Otra actividad | Otra actividad | Otra actividad | Otra actividad | Otra actividad | 
-| Otra más | Otra más | Otra más | Otra más | Otra más |
+1. quiero hacer retos para profundizar en cada uno.
+2. leer documentacion.
+3. seria genial que lupu realize como un taller hablando un poco de estos objetivos.
+4. hacer cursos que me ayuden a comprender un poco cada uno de los temas
+ 
+ 
 
 
 ## Recursos
@@ -40,3 +40,5 @@ Durante la revisión de tu aprendizaje es importante que consolides ese conocimi
 
 [Ejercicios de JS para entrenar la lógica y sintaxis](https://github.com/dapino/daily-js)
 
+
+ 
