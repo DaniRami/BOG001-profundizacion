@@ -10,7 +10,7 @@ Este repositorio será tu herramienta principal para el registro de actividades 
 1 quiero profundizar mas en promesas.
 2 quiero trabajar Organización en Github (projects | issues | labels | milestones).
 3 Verbos HTTP (http.get).
-4 fundamentos de javascript (coercion explicita, implicita).
+4 fundamentos de javascript Recursión.
 
  
 
